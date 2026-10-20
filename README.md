@@ -1,10 +1,11 @@
 # Hi there, I'm Ashish Kumar 👋
 
-![
+![Image_alt](https://github.com/ashukr5270/Portfolio/blob/main/Ashish_Photo.jpeg?raw=true)
 
-🎓 B.Tech from Maharshi Dayanand University, Rohtak, I believe in the power of continuous learning 📚, adapting to evolving cloud technologies, and leveraging     innovation to build efficient, scalable, and secure cloud infrastructure.
 
-☁️ Whether it's Cloud Infrastructure, AWS Services, Cloud Automation, or Resource Management, I thrive on exploring innovative solutions and building secure, scalable, and reliable cloud environments where technology and businesses grow together! 
+🎓 B.Tech from Maharshi Dayanand University, Rohtak, I believe in the power of continuous learning 📚, adapting to evolving cloud technologies, and leveraging        innovation to build efficient, scalable, and secure cloud infrastructure.
+
+☁️ Whether it's Cloud Infrastructure, AWS Services, Cloud Automation, or Resource Management, I thrive on exploring innovative solutions and building secure,          scalable, and reliable cloud environments where technology and businesses grow together! 
 
 ## 🚀 About Me
 
