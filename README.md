@@ -12,7 +12,7 @@
 * 🌱 Learning Cloud Computing, AWS Services, Linux, Networking, Terraform and Docker.
 * 💻 Interested in Cloud Infrastructure, Linux, and Networking.
 * 🔧 Building hands-on cloud projects using AWS, Python and Cloud Infrastructure.
-* 🎯 Aspiring to start my career as a Cloud role!
+* 🎯 Aspiring to start my career as a Cloud role!.
 
 ## 🛠️ Technical Skills
 
