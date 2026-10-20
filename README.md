@@ -1,24 +1,27 @@
-# Hi, I'm Ashish Kumar 👋
+# Hi there, I'm Ashish Kumar 👋
 
-🎓 Final-Year B.Tech Computer Science Student
-☁️ Aspiring Cloud Engineer | AWS | Cloud Computing
+![
+
+🎓 B.Tech from Maharshi Dayanand University, Rohtak, I believe in the power of continuous learning 📚, adapting to evolving cloud technologies, and leveraging     innovation to build efficient, scalable, and secure cloud infrastructure.
+
+☁️ Whether it's Cloud Infrastructure, AWS Services, Cloud Automation, or Resource Management, I thrive on exploring innovative solutions and building secure, scalable, and reliable cloud environments where technology and businesses grow together! 
 
 ## 🚀 About Me
 
-* 🌱 Learning Cloud Computing and AWS Services.
+* 🌱 Learning Cloud Computing, AWS Services, Linux, Networking, Terraform and Docker.
 * 💻 Interested in Cloud Infrastructure, Linux, and Networking.
-* 🔧 Building hands-on cloud projects using AWS and Python.
-* 🎯 Aspiring to start my career as a Cloud Engineer.
+* 🔧 Building hands-on cloud projects using AWS, Python and Cloud Infrastructure.
+* 🎯 Aspiring to start my career as a Cloud role!
 
 ## 🛠️ Technical Skills
 
 * **Cloud:** AWS, EC2, S3, IAM, VPC, CloudWatch
 * **Operating Systems:** Linux, Windows
-* **Programming:** Python, Java, Bash
+* **Programming:** C, SQL, Python, Java, Bash
 * **Networking:** TCP/IP, DNS, HTTP/HTTPS
-* **Tools:** Git, GitHub
+* **Tools:** Terraform, Docker, CloudFormation, Git, GitHub
 
-## 📂 Featured Projects
+## 📂 Cloud Projects
 
 * AWS Resource Cleanup Automation
 * Cloud Backup & Restore Automation
@@ -26,12 +29,13 @@
 
 ## 📫 Connect With Me
 
-* GitHub: [@ashukr5270](https://github.com/ashukr5270)
-* LinkedIn: [Connect with me](https://www.linkedin.com/ashish70)
+✉ Email: [Email](ashumgr0000@gmail.com)
+⚙ GitHub: [GitHub](https://github.com/ashukr5270)
+🔗 LinkedIn: [Linkedin](https://www.linkedin.com/ashish70)
 
 ---
 
-⭐ Always learning and building in Cloud Computing!
+⭐ Keep learning, keep building, and keep automating!
 
 
 <!--
