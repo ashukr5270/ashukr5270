@@ -28,14 +28,17 @@
 * Cloud Backup & Restore Automation
 * Load Balancer & Auto Scaling on AWS
 
+
+📌 Portfolio Website:
+https://ashukr5270.github.io/Portfolio/
+
 ## 📫 Connect With Me
 
-✉ Email: [Email](ashumgr0000@gmail.com)
-⚙ GitHub: [GitHub](https://github.com/ashukr5270)
-🔗 LinkedIn: [Linkedin](https://www.linkedin.com/ashish70)
+✉️ ashumgr0000@gmail.com
+⚙  https://github.com/ashukr5270
+🔗 https://www.linkedin.com/in/ashish70
 
 ---
-
 ⭐ Keep learning, keep building, and keep automating!
 
 
