@@ -10,16 +10,16 @@
 ## 🚀 About Me
 
 * 🌱 Learning Cloud Computing, AWS Services, Linux, Networking, Terraform, Docker and Kubernetes.
-* 💻 Interested in Cloud Infrastructure, Linux, and Networking.
+* 💻 Interested in Cloud Infrastructure, Monitoring, and Troubleshooting.
 * 🔧 Building hands-on cloud projects using AWS, Python and Cloud Infrastructure.
 * 🎯 Aspiring to start my career as a Cloud role!.
 
 ## 🛠️ Technical Skills
 
 * **Cloud:** AWS, EC2, S3, IAM, VPC, CloudWatch
-* **Programming:** C, SQL, Python, Java, Bash
-* **Networking & OS:** TCP/IP, DNS, HTTP/HTTPS, Linux, Window
-* **Infrastructure as Code & Tools:** Terraform, CloudFormation, Docker, Kubernetes, Git, GitHub
+* **Programming & OS:** C, SQL, Python, Java, Bash, Linux, Window
+* **Networking & Tools:** TCP/IP, DNS, HTTP/HTTPS, Git, GitHub
+* **Infrastructure as Code & Containerization:** Terraform, CloudFormation, Docker, Kubernetes
 * **Soft Skills:** Leadership, Communication, Problem Solving, Adaptability, Collaboration, Teamwork
 
 ## 📂 Cloud Projects
