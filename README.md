@@ -27,7 +27,7 @@
 
 * AWS Resource Cleanup Automation.
 * Cloud Backup & Restore Automation.
-* Real-Time Chat Application Using Serverless
+* Real-Time Chat Application Using Serverless.
 * Load Balancer & Auto Scaling on AWS.
 
 
