@@ -5,7 +5,7 @@
 
 🎓 B.Tech from Maharshi Dayanand University, Rohtak, I believe in the power of continuous learning 📚, adapting to evolving cloud technologies, and leveraging        innovation to build efficient, scalable, and secure cloud infrastructure.
 
-☁️ Whether it's Cloud Infrastructure, AWS Services, Cloud Automation, or Resource Management, I thrive on exploring innovative solutions and building secure,          scalable, and reliable cloud environments where technology and businesses grow together! 
+☁️ Whether it's Cloud Infrastructure, AWS Services, Cloud Automation, or Resource Management, I thrive on exploring innovative solutions and building secure,          scalable with a strong focus on monitoring, troubleshooting and cloud operations! 
 
 ## 🚀 About Me
 
@@ -17,9 +17,10 @@
 ## 🛠️ Technical Skills
 
 * **Cloud:** AWS, EC2, S3, IAM, VPC, CloudWatch
-* **Programming & OS:** C, SQL, Python, Java, Bash, Linux, Window
-* **Networking & Tools:** TCP/IP, DNS, HTTP/HTTPS, Git, GitHub
+* **Languages & OS:** C, SQL, Python, Java, Bash, Linux, Window
+* **Networking & Tools:** TCP/IP, DNS, HTTP/HTTPS, Load Balancing, Subnetting, Git, GitHub
 * **Infrastructure as Code & Containerization:** Terraform, CloudFormation, Docker, Kubernetes
+* **CI/CD & Tool:** CI/CD, Git, GitHub, GitHub Actions
 * **Soft Skills:** Leadership, Communication, Problem Solving, Adaptability, Collaboration, Teamwork
 
 ## 📂 Cloud Projects
