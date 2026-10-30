@@ -25,9 +25,10 @@
 
 ## 📂 Cloud Projects
 
-* AWS Resource Cleanup Automation
-* Cloud Backup & Restore Automation
-* Load Balancer & Auto Scaling on AWS
+* AWS Resource Cleanup Automation.
+* Cloud Backup & Restore Automation.
+* Real-Time Chat Application Using Serverless
+* Load Balancer & Auto Scaling on AWS.
 
 
 📌 Portfolio Website:
