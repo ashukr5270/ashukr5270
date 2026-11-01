@@ -17,10 +17,10 @@
 ## 🛠️ Technical Skills
 
 * **Cloud:** AWS, EC2, S3, IAM, VPC, CloudWatch
-* **Languages & OS:** Python, Boto3, SQL, Bash, Linux, Window
+* **Languages & OS:** Python, SQL, Bash, Linux, Window
 * **Networking & Tools:** TCP/IP, DNS, HTTP/HTTPS, Load Balancing, Subnetting, WebSocket, Git, GitHub
 * **Infrastructure as Code & Containerization:** Terraform, CloudFormation, Docker, Kubernetes
-* **CI/CD & Tool:** CI/CD, Git, GitHub, GitHub Actions
+* **CI/CD & Tool:** CI/CD, Git, GitHub, GitHub Actions, Boto3
 * **Soft Skills:** Leadership, Communication, Problem Solving, Adaptability, Collaboration, Teamwork
 
 ## 📂 Cloud Projects
